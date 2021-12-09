@@ -435,7 +435,7 @@ Prefix : 「 MULTI-PREFIX 」
 ► _vote_
 ► _devote_
 
-❏ *SELF-BOT* ❏`
+❏ *𝙈𝙊𝙉𝘼𝘼.* ❏`
         	fakestatus(menu)
            	break
     case 'delvote':
